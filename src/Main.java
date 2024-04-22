@@ -21,7 +21,7 @@ public class Main {
             else if(number % 5 == 0) {
                 System.out.print("Fizz\n");
             }
-// If all the previous condition are false print the number inputted
+// If all the previous condition are false prints the number inputted
             else {
                 System.out.print(number + "\n");
             }
